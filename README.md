@@ -2,6 +2,7 @@
 Online code compiler
 
 An online code compiler, using the Node package dockerode to dockerize execution of user code.
+Currently has support for Python and JavaScript.
 
 Run npm install to install dependencies.
 
